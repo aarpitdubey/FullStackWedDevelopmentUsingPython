@@ -1,0 +1,10 @@
+print("Enter your name: ")
+name=input()
+print("Enter your age: ")
+age=input()
+print("Enter your Qualification: ")
+qualification=input()
+print("Enter your Years of Experience: ")
+yop=input()
+
+print(f"\nHi, my name is {name}, \nmy age is: {age} \nMy Qualification is: I'm {qualification}\nHaving an Experience of {yop} years.")
