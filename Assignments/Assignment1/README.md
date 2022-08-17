@@ -3,8 +3,7 @@
 ### 1. Write a command to get the Python version you are using.
 
 ### Ans : We can type the command on CMD
-```
-                                                                                                                                                                            E:\FullStackWedDevelopmentUsingPython>cd Assignments                                                                                                                                                                                                                                                                                            E:\FullStackWedDevelopmentUsingPython\Assignments>cd Assignment1                                                                                                                                                                                                                                                                                E:\FullStackWedDevelopmentUsingPython\Assignments\Assignment1>py --version                                                    
+```                                                               E:\FullStackWedDevelopmentUsingPython>cd Assignments                                                                                                                             E:\FullStackWedDevelopmentUsingPython\Assignments>cd Assignment1                                                                                                                E:\FullStackWedDevelopmentUsingPython\Assignments\Assignment1>py --version                                                    
                                                                                                                                     Python 3.10.2     python version
 ```
 
@@ -78,3 +77,7 @@
 
 ### Ans :
 ![](./images/Ques10.PNG)
+
+## All answers are below :
+
+![](./images/All_Answers.PNG)
