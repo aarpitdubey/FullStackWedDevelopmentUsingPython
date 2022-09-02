@@ -1,0 +1,1 @@
+print(f'Unicode character of the character "m" is: ord("m") --> {ord("m")}')

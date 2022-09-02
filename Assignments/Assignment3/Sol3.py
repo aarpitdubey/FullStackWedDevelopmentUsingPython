@@ -1,0 +1,1 @@
+print(f'Character representation of given unicode "100" is: chr(100) --> {chr(100)}')
