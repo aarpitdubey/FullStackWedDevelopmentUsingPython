@@ -4,6 +4,9 @@
 # 3 digit numbers means those in the row of 100's
 # 100 (hundreds) * x + 10 (Tens) * y + c (One's)
 
-n = int(input("Enter any number of three digits: "))
-out = n//100
-print(f"\nThe first digit of the three digit number {n} is {out}.\n")
+n = input("\nEnter any number of three digits: ")
+if len(n) == 3:
+    out = int(n)//100
+    print(f"\nThe first digit of the three digit number {n} is {out}.\n")
+else:
+    print(f"\nYou have entered wrong digits value\n")
